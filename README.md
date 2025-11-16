@@ -78,7 +78,7 @@ source ~/.bashrc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PrismFOSS/Prism
+git clone https://github.com/jiupakar-jpg/Prism
 cd Prism
 ```
 
@@ -177,14 +177,4 @@ server {
 }
 ```
 
-## License
 
-This project is licensed under the Prism Public Use License - see the LICENSE file for details.
-
-## Support
-
-For support, please open an issue on the GitHub repository or join our Discord community.
-
-## Security
-
-To report security vulnerabilities, please email security@xeh.sh
